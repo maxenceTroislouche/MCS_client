@@ -17,6 +17,7 @@
 #define MSG "100"
 #define OK "OK"
 #define NOK "KO"
+#define STOP "STOP"
 #define MAX_BUFF 1024
 
 char buffer[MAX_BUFF];
